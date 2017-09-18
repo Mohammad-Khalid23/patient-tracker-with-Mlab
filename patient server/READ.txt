@@ -1,0 +1,1 @@
+Intsall all package that is in package.json

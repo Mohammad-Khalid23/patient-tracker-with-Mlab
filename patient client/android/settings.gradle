@@ -1,0 +1,3 @@
+rootProject.name = 'Pstage4'
+
+include ':app'
